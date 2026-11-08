@@ -5,7 +5,7 @@ Code and data for: Shankarnarayan, V. K. *Open-Data Landslide Susceptibility Map
 Author: Vinay Kellengere Shankarnarayan, RV Institute of Management, Bengaluru · ORCID [0000-0002-5759-0262](https://orcid.org/0000-0002-5759-0262)
 Archived release: 
 
-## Reproduce everything
+## Installation Steps 
 
 ```bash
 pip install -r requirements.txt
