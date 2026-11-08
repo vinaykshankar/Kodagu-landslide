@@ -3,7 +3,7 @@
 Code and data for: Shankarnarayan, V. K. *Open-Data Landslide Susceptibility Mapping in Kodagu, Karnataka: A Spatially Cross-Validated Assessment.* Arab Gulf Journal of Scientific Research (manuscript AGJSR-02-2026-0031, revision 0711).
 
 Author: Vinay Kellengere Shankarnarayan, RV Institute of Management, Bengaluru · ORCID [0000-0002-5759-0262](https://orcid.org/0000-0002-5759-0262)
-Archived release: 
+Archived release: https://doi.org/10.5281/zenodo.24056218
 
 ## Installation Steps 
 
