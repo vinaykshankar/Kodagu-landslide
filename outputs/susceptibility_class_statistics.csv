@@ -1,0 +1,21 @@
+model,fit,cls,p_from,p_to,area_km2,area_pct,scars,scars_pct
+LR with slope,all samples,Very Low,0.0,0.2,2347.3386,57.15621242359808,0,0.0
+LR with slope,all samples,Low,0.2,0.4,831.3345,20.24247003694554,32,9.846153846153847
+LR with slope,all samples,Moderate,0.4,0.6,399.4992,9.72755321207494,103,31.692307692307693
+LR with slope,all samples,High,0.6,0.8,294.5106,7.171147108730425,92,28.307692307692307
+LR with slope,all samples,Very High,0.8,1.0,234.1998,5.702617218651022,98,30.153846153846153
+LR with slope,training subset (held-out scars),Very Low,0.0,0.2,2175.156,52.96367485733157,1,1.0309278350515463
+LR with slope,training subset (held-out scars),Low,0.2,0.4,992.1249,24.15761472807587,9,9.278350515463918
+LR with slope,training subset (held-out scars),Moderate,0.4,0.6,441.5598,10.751702258260261,33,34.02061855670103
+LR with slope,training subset (held-out scars),High,0.6,0.8,301.1589,7.333029014926577,33,34.02061855670103
+LR with slope,training subset (held-out scars),Very High,0.8,1.0,196.8831,4.793979141405719,21,21.649484536082475
+RF without slope,all samples,Very Low,0.0,0.2,1361.709,33.15675414834711,0,0.0
+RF without slope,all samples,Low,0.2,0.4,1150.7958,28.02115093279874,8,2.4615384615384617
+RF without slope,all samples,Moderate,0.4,0.6,983.9313,23.9581057428302,56,17.23076923076923
+RF without slope,all samples,High,0.6,0.8,518.3946,12.622581112433524,160,49.23076923076923
+RF without slope,all samples,Very High,0.8,1.0,92.052,2.241408063590421,101,31.076923076923077
+RF without slope,training subset (held-out scars),Very Low,0.0,0.2,1175.5287,28.6233814274754,3,3.0927835051546393
+RF without slope,training subset (held-out scars),Low,0.2,0.4,1355.0274,32.994061408181935,12,12.371134020618557
+RF without slope,training subset (held-out scars),Moderate,0.4,0.6,1068.4125,26.015169607839056,29,29.896907216494846
+RF without slope,training subset (held-out scars),High,0.6,0.8,447.6591,10.900216361183146,45,46.391752577319586
+RF without slope,training subset (held-out scars),Very High,0.8,1.0,60.255,1.4671711953204802,8,8.24742268041237

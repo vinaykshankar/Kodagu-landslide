@@ -1,0 +1,32 @@
+{
+ "vif_candidates": {
+  "slope": 1.35920248655929,
+  "curvature": 1.2574310542975178,
+  "elevation": 1.0878550503120428,
+  "northness": 1.0401700853567226,
+  "eastness": 1.046331625787086,
+  "twi": 1.553411152255395
+ },
+ "vif_final": {
+  "slope": 1.35920248655929,
+  "curvature": 1.2574310542975178,
+  "elevation": 1.0878550503120428,
+  "northness": 1.0401700853567226,
+  "eastness": 1.046331625787086,
+  "twi": 1.553411152255395
+ },
+ "designs": [
+  {
+   "design": "spatial 4 km",
+   "n_blocks_total": 211
+  },
+  {
+   "design": "spatial 4 km + 1 km buffer",
+   "n_blocks_total": 211
+  },
+  {
+   "design": "spatial 10 km",
+   "n_blocks_total": 53
+  }
+ ]
+}

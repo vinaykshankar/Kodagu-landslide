@@ -1,0 +1,34 @@
+{
+ "LR with slope | all samples": {
+  "HVH_area_km2": 528.7104,
+  "HVH_area_pct": 12.873764327381448,
+  "scars_in_HVH": 190,
+  "scars_total": 325,
+  "scar_pct": 58.46153846153847,
+  "concentration_ratio": 4.5411378501931665
+ },
+ "LR with slope | training subset (held-out scars)": {
+  "HVH_area_km2": 498.04200000000003,
+  "HVH_area_pct": 12.127008156332296,
+  "scars_in_HVH": 54,
+  "scars_total": 97,
+  "scar_pct": 55.670103092783506,
+  "concentration_ratio": 4.5905884101937
+ },
+ "RF without slope | all samples": {
+  "HVH_area_km2": 610.4466,
+  "HVH_area_pct": 14.863989176023946,
+  "scars_in_HVH": 261,
+  "scars_total": 325,
+  "scar_pct": 80.3076923076923,
+  "concentration_ratio": 5.402835763445723
+ },
+ "RF without slope | training subset (held-out scars)": {
+  "HVH_area_km2": 507.9141,
+  "HVH_area_pct": 12.367387556503626,
+  "scars_in_HVH": 53,
+  "scars_total": 97,
+  "scar_pct": 54.63917525773196,
+  "concentration_ratio": 4.418004611572062
+ }
+}

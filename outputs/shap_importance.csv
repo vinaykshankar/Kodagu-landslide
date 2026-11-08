@@ -1,0 +1,12 @@
+model,predictor,mean_abs_shap
+RF with slope,slope,0.2632051110813615
+RF with slope,curvature,0.055938915418602256
+RF with slope,elevation,0.032150640663935665
+RF with slope,twi,0.03088674946439755
+RF with slope,northness,0.02884500506779471
+RF with slope,eastness,0.011709843106427515
+RF without slope,twi,0.10560270352619128
+RF without slope,elevation,0.0820781939823805
+RF without slope,curvature,0.08096509351878785
+RF without slope,northness,0.044978907650966904
+RF without slope,eastness,0.01873368725261722

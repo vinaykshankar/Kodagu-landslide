@@ -1,0 +1,6 @@
+step,n
+GEE candidates,5247
+inside district boundary,1834
+900 m2 <= patch area <= 2 ha,1604
+centroid slope >= 15 deg,325
+one point per 30 m cell,325

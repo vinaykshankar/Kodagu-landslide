@@ -1,0 +1,121 @@
+design,fold,model,predictors,AUC
+random 5-fold,0,IV,with slope,0.8072189349112425
+random 5-fold,0,IV,without slope,0.6488757396449704
+random 5-fold,0,LR,with slope,0.8033136094674558
+random 5-fold,0,LR,without slope,0.5616568047337278
+random 5-fold,0,RF,with slope,0.8617751479289941
+random 5-fold,0,RF,without slope,0.7057988165680473
+random 5-fold,1,IV,with slope,0.8136094674556212
+random 5-fold,1,IV,without slope,0.7423668639053255
+random 5-fold,1,LR,with slope,0.8362130177514793
+random 5-fold,1,LR,without slope,0.7067455621301776
+random 5-fold,1,RF,with slope,0.863905325443787
+random 5-fold,1,RF,without slope,0.8113609467455621
+random 5-fold,2,IV,with slope,0.8401183431952663
+random 5-fold,2,IV,without slope,0.7542011834319527
+random 5-fold,2,LR,with slope,0.8785798816568047
+random 5-fold,2,LR,without slope,0.7455621301775147
+random 5-fold,2,RF,with slope,0.8946745562130178
+random 5-fold,2,RF,without slope,0.8402366863905326
+random 5-fold,3,IV,with slope,0.8275739644970413
+random 5-fold,3,IV,without slope,0.681301775147929
+random 5-fold,3,LR,with slope,0.7855621301775149
+random 5-fold,3,LR,without slope,0.6724260355029588
+random 5-fold,3,RF,with slope,0.8958579881656805
+random 5-fold,3,RF,without slope,0.744378698224852
+random 5-fold,4,IV,with slope,0.8500591715976331
+random 5-fold,4,IV,without slope,0.6994082840236686
+random 5-fold,4,LR,with slope,0.8544378698224853
+random 5-fold,4,LR,without slope,0.7065088757396449
+random 5-fold,4,RF,with slope,0.8882840236686391
+random 5-fold,4,RF,without slope,0.7671005917159763
+spatial 4 km,0,IV,with slope,0.8531013257575758
+spatial 4 km,0,IV,without slope,0.6928267045454546
+spatial 4 km,0,LR,with slope,0.8349905303030303
+spatial 4 km,0,LR,without slope,0.6879734848484849
+spatial 4 km,0,RF,with slope,0.9019886363636365
+spatial 4 km,0,RF,without slope,0.7526041666666667
+spatial 4 km,1,IV,with slope,0.8283617424242424
+spatial 4 km,1,IV,without slope,0.6429924242424242
+spatial 4 km,1,LR,with slope,0.8271780303030303
+spatial 4 km,1,LR,without slope,0.6136363636363636
+spatial 4 km,1,RF,with slope,0.8918087121212122
+spatial 4 km,1,RF,without slope,0.748342803030303
+spatial 4 km,2,IV,with slope,0.8213352340223331
+spatial 4 km,2,IV,without slope,0.6705868377286767
+spatial 4 km,2,LR,with slope,0.8557852221430269
+spatial 4 km,2,LR,without slope,0.7227369921596578
+spatial 4 km,2,RF,with slope,0.8693276312663342
+spatial 4 km,2,RF,without slope,0.7757186980280352
+spatial 4 km,3,IV,with slope,0.7275527126273396
+spatial 4 km,3,IV,without slope,0.6268656716417911
+spatial 4 km,3,LR,with slope,0.7718550106609807
+spatial 4 km,3,LR,without slope,0.6462923477848851
+spatial 4 km,3,RF,with slope,0.8066808813077471
+spatial 4 km,3,RF,without slope,0.7256574271499644
+spatial 4 km,4,IV,with slope,0.8558128431606589
+spatial 4 km,4,IV,without slope,0.6819049892575795
+spatial 4 km,4,LR,with slope,0.8708522320362855
+spatial 4 km,4,LR,without slope,0.6586297445691096
+spatial 4 km,4,RF,with slope,0.9064215803294342
+spatial 4 km,4,RF,without slope,0.7534017665313918
+spatial 4 km + 1 km buffer,0,IV,with slope,0.8541666666666666
+spatial 4 km + 1 km buffer,0,IV,without slope,0.6910511363636364
+spatial 4 km + 1 km buffer,0,LR,with slope,0.8342803030303031
+spatial 4 km + 1 km buffer,0,LR,without slope,0.6898674242424242
+spatial 4 km + 1 km buffer,0,RF,with slope,0.9003314393939394
+spatial 4 km + 1 km buffer,0,RF,without slope,0.7464488636363636
+spatial 4 km + 1 km buffer,1,IV,with slope,0.8096590909090909
+spatial 4 km + 1 km buffer,1,IV,without slope,0.6337594696969697
+spatial 4 km + 1 km buffer,1,LR,with slope,0.8193655303030303
+spatial 4 km + 1 km buffer,1,LR,without slope,0.5973011363636364
+spatial 4 km + 1 km buffer,1,RF,with slope,0.8944128787878788
+spatial 4 km + 1 km buffer,1,RF,without slope,0.7582859848484849
+spatial 4 km + 1 km buffer,2,IV,with slope,0.8233547160845807
+spatial 4 km + 1 km buffer,2,IV,without slope,0.6895937277263008
+spatial 4 km + 1 km buffer,2,LR,with slope,0.8505583273936802
+spatial 4 km + 1 km buffer,2,LR,without slope,0.7025421715371823
+spatial 4 km + 1 km buffer,2,RF,with slope,0.8422428130197197
+spatial 4 km + 1 km buffer,2,RF,without slope,0.7407935376574009
+spatial 4 km + 1 km buffer,3,IV,with slope,0.7072968490878939
+spatial 4 km + 1 km buffer,3,IV,without slope,0.5537787254205164
+spatial 4 km + 1 km buffer,3,LR,with slope,0.7642738687514807
+spatial 4 km + 1 km buffer,3,LR,without slope,0.6280502250651505
+spatial 4 km + 1 km buffer,3,RF,with slope,0.7867803837953091
+spatial 4 km + 1 km buffer,3,RF,without slope,0.6920161099265577
+spatial 4 km + 1 km buffer,4,IV,with slope,0.8613034137025544
+spatial 4 km + 1 km buffer,4,IV,without slope,0.686679398424445
+spatial 4 km + 1 km buffer,4,LR,with slope,0.8722845547863451
+spatial 4 km + 1 km buffer,4,LR,without slope,0.6622105514442588
+spatial 4 km + 1 km buffer,4,RF,with slope,0.9061828598710909
+spatial 4 km + 1 km buffer,4,RF,without slope,0.7424206254476009
+spatial 10 km,0,IV,with slope,0.9171747967479674
+spatial 10 km,0,IV,without slope,0.7478404471544716
+spatial 10 km,0,LR,with slope,0.9377540650406504
+spatial 10 km,0,LR,without slope,0.7411077235772359
+spatial 10 km,0,RF,with slope,0.9298780487804879
+spatial 10 km,0,RF,without slope,0.8246951219512195
+spatial 10 km,1,IV,with slope,0.7976190476190477
+spatial 10 km,1,IV,without slope,0.5973809523809523
+spatial 10 km,1,LR,with slope,0.7771428571428571
+spatial 10 km,1,LR,without slope,0.6104761904761904
+spatial 10 km,1,RF,with slope,0.8788095238095239
+spatial 10 km,1,RF,without slope,0.713095238095238
+spatial 10 km,2,IV,with slope,0.8307926829268293
+spatial 10 km,2,IV,without slope,0.620045731707317
+spatial 10 km,2,LR,with slope,0.8762703252032521
+spatial 10 km,2,LR,without slope,0.5851117886178863
+spatial 10 km,2,RF,with slope,0.8241869918699186
+spatial 10 km,2,RF,without slope,0.6793699186991871
+spatial 10 km,3,IV,with slope,0.7341737462318444
+spatial 10 km,3,IV,without slope,0.6312688407782955
+spatial 10 km,3,LR,with slope,0.7785694710879694
+spatial 10 km,3,LR,without slope,0.6497670594683475
+spatial 10 km,3,RF,with slope,0.7634968484516306
+spatial 10 km,3,RF,without slope,0.6429158673609208
+spatial 10 km,4,IV,with slope,0.8312499999999999
+spatial 10 km,4,IV,without slope,0.7286250000000001
+spatial 10 km,4,LR,with slope,0.8240000000000001
+spatial 10 km,4,LR,without slope,0.704
+spatial 10 km,4,RF,with slope,0.91575
+spatial 10 km,4,RF,without slope,0.7999999999999999
